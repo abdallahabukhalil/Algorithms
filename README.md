@@ -9,7 +9,7 @@ Instead of just reading about theoretical concepts, I created this space to docu
 Here is a detailed list of the algorithms included. Click on any file name to view the Python code directly.
 
 * **Searching Algorithms**
-  * [`binary_search.py`](./Algorithms/Searching%20Algorithms/binary%20search.py): Efficiently finds the position of a target value within a sorted array using a divide-and-conquer approach.
+  * [`binary_search.py`](./Algorithms/Searching/binary%20search.py): Efficiently finds the position of a target value within a sorted array using a divide-and-conquer approach.
 
 * **Math & Combinatorics**
   * [`combination.py`](./Algorithms/Math%20and%20Combinatorics/combination.py): Calculates and generates all possible combinations of a dataset without repetitions.
