@@ -9,18 +9,18 @@ Instead of just reading about theoretical concepts, I created this space to docu
 Here is a detailed list of the algorithms included. Click on any file name to view the Python code directly.
 
 * **Searching Algorithms**
-  * [`binary_search.py`](.Algorithms/Searching_Algorithms/binary_search.py): Efficiently finds the position of a target value within a sorted array using a divide-and-conquer approach.
+  * [`binary_search.py`](./Algorithms/Searching%20Algorithms/binary%20search.py): Efficiently finds the position of a target value within a sorted array using a divide-and-conquer approach.
 
 * **Math & Combinatorics**
-  * [`combination.py`](.Algorithms/Math_and_Combinatorics/combination.py): Calculates and generates all possible combinations of a dataset without repetitions.
-  * [`subsets.py`](.Algorithms/Math_and_Combinatorics/subsets.py): Generates all possible subsets (the power set) of a given mathematical set.
-  * [`find_greatest_common_divisor.py`](.Algorithms/Math_and_Combinatorics/find_greatest_common_divisor.py): Finds the greatest common divisor (GCD) of two numbers efficiently.
+  * [`combination.py`](./Algorithms/Math%20and%20Combinatorics/combination.py): Calculates and generates all possible combinations of a dataset without repetitions.
+  * [`subsets.py`](./Algorithms/Math%20and%20Combinatorics/subsets.py): Generates all possible subsets (the power set) of a given mathematical set.
+  * [`find_greatest_common_divisor.py`](./Algorithms/Math%20and%20Combinatorics/find%20greatest%20common%20divisor.py): Finds the greatest common divisor (GCD) of two numbers efficiently.
 
 * **Computational Geometry**
-  * [`convex_hull.py`](.Algorithms/Computational_Geometry/convex_hull.py): Finds the smallest convex polygon that contains a given set of points (useful in pattern recognition and data modeling).
+  * [`convex_hull.py`](./Algorithms/Computational%20Geometry/convex%20hull.py): Finds the smallest convex polygon that contains a given set of points (useful in pattern recognition and data modeling).
 
 * **Dynamic Programming**
-  * [`ways_num.py`](.Algorithms/Dynamic_Programming/ways_num.py): Solves the classic "number of ways" problem. It calculates how many different ways you can reach a target sum using a specific set of numbers. This script demonstrates **memoization** (top-down dynamic programming) to optimize performance and avoid redundant calculations.
+  * [`ways_num.py`](./Algorithms/Dynamic%20Programming/ways%20num.py): Solves the classic "number of ways" problem. It calculates how many different ways you can reach a target sum using a specific set of numbers. This script demonstrates **memoization** (top-down dynamic programming) to optimize performance and avoid redundant calculations.
 
 ## How to Use & Run
 Each file is written as a standalone script. You can run any algorithm directly from your terminal to see the output.
