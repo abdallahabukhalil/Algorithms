@@ -5,7 +5,7 @@ Bringing theory to life: A collection of core algorithms I learned as pseudocode
 
 Instead of just reading about theoretical concepts, I created this space to document my academic journey. This repository serves as a practical, searchable index of my study notes turned into real, working code. It focuses on clean implementation, logical thinking, and problem-solving.
 
-## 🗂️ Algorithms Index
+## Algorithms Index
 Here is a detailed list of the algorithms included. Click on any file name to view the Python code directly.
 
 * **Searching Algorithms**
@@ -22,13 +22,8 @@ Here is a detailed list of the algorithms included. Click on any file name to vi
 * **Dynamic Programming**
   * [`Ways Num.py`](./Algorithms/Dynamic%20Programming/Ways%20Num.py): Solves the classic "number of ways" problem. It calculates how many different ways you can reach a target sum using a specific set of numbers. This script demonstrates **memoization** (top-down dynamic programming) to optimize performance and avoid redundant calculations.
 
-## How to Use & Run
-Each file is written as a standalone script. You can run any algorithm directly from your terminal to see the output.
 
-```bash
-python Math_and_Combinatorics/find_greatest_common_divisor.py
-```
-## 👨‍💻 Author
+## Author
 
 <div align="center">
 
