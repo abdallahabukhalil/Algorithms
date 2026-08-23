@@ -12,9 +12,9 @@ Here is a detailed list of the algorithms included. Click on any file name to vi
   * [`Binary Search.py`](./Algorithms/Searching/Binary%20Search.py): Efficiently finds the position of a target value within a sorted array using a divide-and-conquer approach.
 
 * **Math & Combinatorics**
-  * [`Combination.py`](./Algorithms/Math%20and%20Combinatorics/Combination.py): Calculates and generates all possible combinations of a dataset without repetitions.
-  * [`Subsets.py`](./Algorithms/Math%20and%20Combinatorics/Subsets.py): Generates all possible subsets (the power set) of a given mathematical set.
-  * [`Find Greatest Common Divisor.py`](./Algorithms/Math%20and%20Combinatorics/Find%20Greatest%20Common%20Divisor.py): Finds the greatest common divisor (GCD) of two numbers efficiently.
+  * [`Combination.py`](./Algorithms/Math%20&%20Combinatorics/Combination.py): Calculates and generates all possible combinations of a dataset without repetitions.
+  * [`Subsets.py`](./Algorithms/Math%20&%20Combinatorics/Subsets.py): Generates all possible subsets (the power set) of a given mathematical set.
+  * [`Find Greatest Common Divisor.py`](./Algorithms/Math%20&%20Combinatorics/Find%20Greatest%20Common%20Divisor.py): Finds the greatest common divisor (GCD) of two numbers efficiently.
 
 * **Computational Geometry**
   * [`Convex Hull.py`](./Algorithms/Computational%20Geometry/Convex%20Hull.py): Finds the smallest convex polygon that contains a given set of points (useful in pattern recognition and data modeling).
